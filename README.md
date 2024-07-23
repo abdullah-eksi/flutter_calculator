@@ -25,8 +25,8 @@ Bu proje, Flutter kullanılarak geliştirilmiş bir hesap makinesi uygulamasıd�
 
 2. **Projeyi Klonlayın**:
     ```bash
-    git clone https://github.com/username/advanced_calculator.git
-    cd advanced_calculator
+    git clone https://github.com/abdullah-eksi/flutter_calculator.git
+    cd flutter_calculator
     ```
 
 3. **Bağımlılıkları Yükleyin**:
